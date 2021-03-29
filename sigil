@@ -8,7 +8,6 @@
 --
 
 local io = require( 'io' )
-local tonumber = tonumber
 
 _ENV = nil
 
